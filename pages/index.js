@@ -9,7 +9,7 @@ export default function Home() {
 				<link rel='icon' href='/favicon.ico' />
 			</Head>
 
-			<h1>Landing Page</h1>
+			<h1>NEW FROM THE BACK TO BACKSTREET BOYS</h1>
 		</div>
 	);
 }
